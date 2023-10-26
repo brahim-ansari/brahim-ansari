@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brahim-ansari
-- 👀 I’m interested in web develpment
-- 🌱 I’m currently learning css
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning javascripte
 - 💞️ I’m looking to collaborate on google
 - 📫 How to reach me borasbrahem@gmail.com
 
